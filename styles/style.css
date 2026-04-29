@@ -22,7 +22,7 @@ body {
 }
 }
 .head-text{
-  padding: 40px;
+  padding: 50px;
   display: flex;
   text-align: center;
   flex-direction: column;
@@ -31,7 +31,7 @@ body {
 .head-text h1 {
   color: #E5E7EB;
   align-self: center;
-  max-width: 400px;
+  max-width: 500px;
 }
 .head-text p {
   color: #9DA3AE;
@@ -42,7 +42,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 40px;
+  gap: 30px;
 }
 .card{
   display: block;
